@@ -1,4 +1,4 @@
 from greet import greetings
 
 for a in greetings:
-    print(a.title())
+    print(a.title() + ":)")
